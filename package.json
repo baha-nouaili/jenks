@@ -1,0 +1,23 @@
+{
+  "name": "jenks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baha-nouaili/jenks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baha-nouaili/jenks/issues"
+  },
+  "homepage": "https://github.com/baha-nouaili/jenks#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
